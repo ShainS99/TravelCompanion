@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TravelCompanion</string>
+
+    <string-array name="currency_array">
+        <item>USD - United States Dollar</item>
+        <item>AUD - Australian Dollar</item>
+        <item>EUR - Euro</item>
+        <item>JPY - Japanese Yen</item>
+        <item>GBP - Great British Pound</item>
+    </string-array>
+
+    <string-array name="fuel_array">
+        <item>mpg - Mile per Gallon</item>
+        <item>km/L - Kilometers per Liter</item>
+        <item>G - Gallon</item>
+        <item>L - Liters</item>
+        <item>M - Nautical Mile</item>
+        <item>Km - Kilometers</item>
+    </string-array>
+
+    <string-array name="temperature_array">
+        <item>C - Celsius</item>
+        <item>F - Fahrenheit</item>
+        <item>K - Kelvin</item>
+    </string-array>
+</resources>
